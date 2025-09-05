@@ -34,14 +34,14 @@ Unzip the download file and put it into the main directory.
 To train and test the DICE-VI model in the terminal, use:
 
 ```bash
-$ python run_dice_vi.py --dataset VSD --lambda1 0.1 --lambda2 0.1 --max_epoch 50 --batch_size 32 --lr 0.001 --adjust_lr True --device cuda:0 --seed 0
+$ python run_dice_vi.py --dataset VSD --lambda1 0.1 --lambda2 0.1 --max_epoch 50 --batch_size 32 --lr 0.001 --device cuda:0 --seed 0
 ```
 
 
 To train and test the DICE-CC model in the terminal, use:
 
 ```bash
-$ python run_dice_cc.py --dataset VSD --loss_type focal --alpha 0.01 --max_epoch 50 --batch_size 32 --lr 0.001 --adjust_lr True --device cuda:0 --seed 0
+$ python run_dice_cc.py --dataset VSD --loss_type focal --alpha 0.01 --max_epoch 50 --batch_size 32 --lr 0.001 --device cuda:0 --seed 0
 ```
 
 ## Acknowledgment
@@ -55,6 +55,7 @@ Our project references the datasets in the following repositories and papers.
 [SCUT-FBP5500: A Diverse Benchmark Dataset for Multi-Paradigm Facial Beauty Prediction. ICPR 2018: 1598-1603.](https://ieeexplore.ieee.org/document/8546038/)
 
 [Movie metadata](https://www.kaggle.com/datasets/karrrimba/movie-metadatacsv/data)
+
 
 
 
