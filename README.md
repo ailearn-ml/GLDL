@@ -1,4 +1,4 @@
-# Code for RDA
+# Code for DICE-VI and DICE-CC
 
 Code for "Delving into Generalizable Label Distribution Learning" in TPAMI 2025.
 
@@ -34,7 +34,7 @@ Unzip the download file and put it into the main directory.
 To train and test the DICE-VI model in the terminal, use:
 
 ```bash
-$ python run_dice_vi.py --dataset VSD --loss_type kl --lambda1 0.1 --lambda2 0.1 --max_epoch 50 --batch_size 32 --lr 0.001 --adjust_lr True --device cuda:0 --seed 0
+$ python run_dice_vi.py --dataset VSD --lambda1 0.1 --lambda2 0.1 --max_epoch 50 --batch_size 32 --lr 0.001 --adjust_lr True --device cuda:0 --seed 0
 ```
 
 
