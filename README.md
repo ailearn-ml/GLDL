@@ -50,11 +50,12 @@ Our project references the datasets in the following repositories and papers.
 
 [Learning Visual Sentiment Distributions via Augmented Conditional Probability Neural Network. AAAI 2017: 224-230.](https://ojs.aaai.org/index.php/AAAI/article/view/10485)
 
-[Affective image classification using features inspired by psychology and art theory. ACM Multimedia 2010: 83-92.](https://dl.acm.org/doi/10.1145/1873951.1873965)
+[Affective Image Classification Using Features Inspired by Psychology and Art Theory. ACM Multimedia 2010: 83-92.](https://dl.acm.org/doi/10.1145/1873951.1873965)
 
 [SCUT-FBP5500: A Diverse Benchmark Dataset for Multi-Paradigm Facial Beauty Prediction. ICPR 2018: 1598-1603.](https://ieeexplore.ieee.org/document/8546038/)
 
 [Movie metadata](https://www.kaggle.com/datasets/karrrimba/movie-metadatacsv/data)
+
 
 
 
