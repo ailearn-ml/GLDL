@@ -2,7 +2,7 @@
 
 Code for "Delving into Generalizable Label Distribution Learning" in TPAMI 2025.
 
-If you use the code in this repo for your work, please cite the following bib entries:
+If you use the code in this repo for your work, please cite the following BibTeX entries:
 
 ```
 @article{GLDL,
@@ -55,5 +55,6 @@ Our project references the datasets in the following repositories and papers.
 [SCUT-FBP5500: A Diverse Benchmark Dataset for Multi-Paradigm Facial Beauty Prediction. ICPR 2018: 1598-1603.](https://ieeexplore.ieee.org/document/8546038/)
 
 [Movie metadata](https://www.kaggle.com/datasets/karrrimba/movie-metadatacsv/data)
+
 
 
